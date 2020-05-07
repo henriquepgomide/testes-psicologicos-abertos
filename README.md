@@ -1,6 +1,6 @@
 # Testes Psicológicos Abertos
 
-Este repositório tem como objetivo listar testes abertos disponíveis em português brasileiro. 
+Este repositório tem como objetivo listar testes abertos disponíveis em português do Brasil. 
 
 
 ## Lista de testes
